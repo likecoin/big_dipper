@@ -8,6 +8,8 @@ Forbole Block Explorer for Cosmos
 
 [Explore Terra (columbus-1) with The Big Dipper](https://terra.bigdipper.live)
 
+[Explore LikeChain (likecoin) with The Big Dipper](https://likecoin.bigdipper.live)
+
 ## Projects with testnets
 
 [Sentinel testnet](https://explorer.sentinel.co/)
